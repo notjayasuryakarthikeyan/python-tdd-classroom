@@ -16,7 +16,7 @@ def reverse_list(input_list):
 
 def count_digits(number):
     """
-    Return count of digits
+    Return count of digit
     """
     count_digit = 0
     while number:

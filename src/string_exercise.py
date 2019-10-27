@@ -16,7 +16,7 @@ class StringExercise:
     def is_english_vowel(self, character):
         """
         Returns True if character is an english vowel
-        and False otherwise.
+        and False otherwise
         """
         english_vowel = ['a', 'e', 'i', 'o', 'u', 'A', 'E', 'I', 'O', 'U']
         if character in english_vowel:
